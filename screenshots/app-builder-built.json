@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Neraca — Desk intelijen makro Indonesia",
+      "hasCanvas": false,
+      "bodyTextLen": 3127,
+      "bodyTextHash": "4851cc6ad7839c2dafbb42cddfda3d43e218ae5c6fe0de8249d9e41105a36614",
+      "bodyTextPrefix": "DESK MAKRO Neraca Desk intelijen makro Indonesia. Fokus IDR dan ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Neraca — Desk intelijen makro Indonesia",
+      "hasCanvas": false,
+      "bodyTextLen": 3127,
+      "bodyTextHash": "5a2127b7f1fa5f749113be60f843fc873eb3e69ad32189b6fa335565eaee4dba",
+      "bodyTextPrefix": "DESK MAKRO Neraca Desk intelijen makro Indonesia. Fokus IDR dan ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
